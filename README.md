@@ -10,6 +10,8 @@
 
 <h3 align="center">Citadel Summer Invitational Datathon Team 10 Submission Repository</h3>
 
+</div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -33,9 +35,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-</div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
