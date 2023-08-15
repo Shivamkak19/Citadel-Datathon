@@ -5,17 +5,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/Shivamkak19/Citadel-Datathon">
-    <img src="images/dataOpen.png" alt="Logo" width="80" height="80">
+    <img src="images/dataOpen.png" alt="Logo">
   </a>
 
 <h3 align="center">Citadel Summer Invitational Datathon Team 10 Submission Repository</h3>
 
-</div>
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+<!-- Table of Contents -->
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -37,8 +32,8 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
 
+</div>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -69,9 +64,12 @@ to analyze this pressing societal issue via the foreground of thorough data anal
 
 ### Built With
 
+* [![Pandas][pandas]][pandas-url]
 * [![Numpy][numpy]][numpy-url]
-
-
+* [![plotly][plotly]][plotly-url]
+* [![xgboost][xgboost]][xgboost-url]
+* [![scipy][scipy]][scipy-url]
+* [![sklearn][sklearn]][sklearn-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,8 +97,8 @@ Please make sure to adjust the relative paths to where you have saved the datase
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- OUTPUT EXAMPLES -->
+## Output
 
 Below are a few images of our cleaned datasets and generated figures. Please refer to our final report and .ipynb files in the final_version directory for more thorough information.
 
@@ -108,7 +106,6 @@ Below are a few images of our cleaned datasets and generated figures. Please ref
 ![dataAnalysis-Image][product2]
 ![dataAnalysis-Image][product3]
 ![dataAnalysis-Image][product4]
-![dataAnalysis-Image][product5]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,19 +140,19 @@ See the [open issues](https://github.com/Shivamkak19/Citadel-Datathon/issues) fo
 
 Shivam Kak
   - [ ] Email: sk3686@princeton.edu 
-  - [ ] LinkedIn: [LinkedIn](https://www.linkedin.com/in/shivamkak/)
+  - [ ] [LinkedIn](https://www.linkedin.com/in/shivamkak/)
 
 Michael Perry
   - [ ] Email: mperry2@andrew.cmu.edu
-  - [ ] LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-perry-325255180/)
+  - [ ] [LinkedIn](https://www.linkedin.com/in/michael-perry-325255180/)
 
 Edward Zhang 
   - [ ] Email: edward.zhang@duke.edu
-  - [ ] LinkedIn: [LinkedIn](https://www.linkedin.com/in/ez246/)
+  - [ ] [LinkedIn](https://www.linkedin.com/in/ez246/)
 
 Pieter Heesters 
   - [ ] Email: pheester@nd.edu
-  - [ ] LinkedIn: [LinkedIn](https://www.linkedin.com/in/pieter-heesters/)
+  - [ ] [LinkedIn](https://www.linkedin.com/in/pieter-heesters/)
 
 
 Project Link: [https://github.com/Shivamkak19/Citadel-Datathon](https://github.com/Shivamkak19/Citadel-Datathon)
@@ -176,7 +173,22 @@ Project Link: [https://github.com/Shivamkak19/Citadel-Datathon](https://github.c
 [product3]: images/DelayVsFare.png
 [product4]: images/output.png
 
+[pandas]: https://img.shields.io/badge/Pandas-e30487?style=for-the-badge&logo=pandas&logoColor=130654
+[pandas-url]: https://pandas.pydata.org/
+
 [numpy]: https://img.shields.io/badge/numpy-4dabcf?style=for-the-badge&logo=numpy&logoColor=white
 [numpy-url]: https://numpy.org/
 
-[]
+[plotly]: https://img.shields.io/badge/Plotly.Express-4787f5?style=for-the-badge&logo=plotly&logoColor=black
+[plotly-url]: https://plotly.com/python/plotly-express/
+
+[xgboost]: https://img.shields.io/badge/XGBOOST-22a038?style=for-the-badge
+[xgboost-url]: https://xgboost.readthedocs.io/en/stable/
+
+[scipy]: https://img.shields.io/badge/SciPy-023243?style=for-the-badge&logo=scipy&logoColor=0054a6
+[scipy-url]: https://scipy.org/
+
+[sklearn]: https://img.shields.io/badge/sklearn-ff9c34?style=for-the-badge&logo=scikitlearn&logoColor=3599cd
+[sklearn-url]: https://scikit-learn.org/stable/
+
+
