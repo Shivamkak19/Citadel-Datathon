@@ -13,9 +13,9 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details align = "center">
+<details>
   <summary>Table of Contents</summary>
-  <ol align= "center">
+  <ol>
     <li>
       <ul>
         <li><a href="#about-the-project">About the Project</a></li>
